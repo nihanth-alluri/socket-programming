@@ -1,3 +1,5 @@
+// This is the script emulates the Oracle Node
+// 1. Contructs graph topology from the oracle-node-config-file
 
 import java.io.File;
 import java.io.FileNotFoundException;
